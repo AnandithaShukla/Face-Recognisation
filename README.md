@@ -9,5 +9,7 @@ The goal is to develop a real-time facial recognition system capable of identify
 Dependencies:
 
 OpenCV (cv2): For webcam access, face detection, and image processing.
+
 NumPy: For numerical computations and array operations.
+
 Haar Cascade XML file: For face detection using pre-trained classifiers
